@@ -1,0 +1,5 @@
+# Copia este archivo a local.properties (ya está en .gitignore) y añade tus credenciales
+# de https://developer.spotify.com/dashboard. No las subas al repositorio.
+sdk.dir=/ruta/a/Android/sdk
+SPOTIFY_CLIENT_ID=tu_client_id
+SPOTIFY_CLIENT_SECRET=tu_client_secret
